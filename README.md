@@ -1,5 +1,6 @@
 
-# USI Angry Turtle
+
+# USI Angry Turtle: A ROS2 Humble Simulation Project
 
 This ROS2 package, `usi_angry_turtle`, controls a "turtle" in the `turtlesim` simulation. The turtle displays "angry" behavior by moving in erratic patterns. This project is designed to demonstrate basic ROS2 skills, including node creation, service handling, and parameter setting.
 
